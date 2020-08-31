@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="100" viewBox="0 0 200 100">
+  <defs>
+    <clipPath id="clip-Creative_Shop">
+      <rect width="200" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Creative_Shop" data-name="Creative Shop" clip-path="url(#clip-Creative_Shop)">
+    <g id="shopping-bags" transform="translate(6.596 29)">
+      <g id="Group_2" data-name="Group 2" transform="translate(9.404)">
+        <g id="Group_1" data-name="Group 1" transform="translate(0)">
+          <path id="Path_1" data-name="Path 1" d="M9.4,160.914,13.432,182.7a4.538,4.538,0,0,0,4.425,3.744H41.909a4.538,4.538,0,0,0,4.425-3.744l4.028-21.784Zm13.1,9.757a1.135,1.135,0,1,1-2.269,0v-3.4a1.135,1.135,0,1,1,2.269,0Zm17.019,0a1.135,1.135,0,0,1-2.269,0v-3.4a1.135,1.135,0,0,1,2.269,0Z" transform="translate(-9.404 -143.442)" fill="#ff9fe1"/>
+          <path id="Path_2" data-name="Path 2" d="M111.461,9.644a7.375,7.375,0,0,1,14.749,0v6.694h2.269V9.644a9.644,9.644,0,0,0-19.288,0v6.694h2.269Z" transform="translate(-98.357)" fill="#ff9fe1"/>
+        </g>
+      </g>
+    </g>
+    <text id="CREATIVE_SHOP-2" data-name="CREATIVE SHOP" transform="translate(61 63)" fill="#5d3677" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">CREATIVE SHOP</tspan></text>
+  </g>
+</svg>

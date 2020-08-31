@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <clipPath id="clip-shopping_cart">
+      <rect width="15" height="15"/>
+    </clipPath>
+  </defs>
+  <g id="shopping_cart" data-name="shopping cart" clip-path="url(#clip-shopping_cart)">
+    <g id="online-store-shopping-cart" transform="translate(1 -40.491)">
+      <g id="Icons_38_" transform="translate(0 42.491)">
+        <path id="Path_1" data-name="Path 1" d="M12.817,44.031a1.026,1.026,0,0,0-.843-.441H5.617a.43.43,0,0,0,0,.86h6.357a.166.166,0,0,1,.156.224l-1.191,3.207a.167.167,0,0,1-.156.109H4.1l-1.064-4.54a1.236,1.236,0,0,0-1.209-.958H.645a.645.645,0,0,0,0,1.29H1.791l1.433,6.114A1.235,1.235,0,0,0,4.4,50.85a1.326,1.326,0,1,0,1.556,0H8.428a1.326,1.326,0,1,0,1.559,0h.6a.645.645,0,1,0,0-1.29H4.471L4.3,48.849h6.479a1.03,1.03,0,0,0,.962-.669l1.192-3.207A1.026,1.026,0,0,0,12.817,44.031Z" transform="translate(0 -42.491)" fill="#6e044b"/>
+      </g>
+    </g>
+  </g>
+</svg>
